@@ -1,4 +1,5 @@
 import Register from "./components/Register";
+import ipconfig from "./ipConfig.json";
 import Product from "./components/Products";
 import Login from "./components/Login";
 import Checkout from "./components/Checkout";
